@@ -1,55 +1,47 @@
 # Emerus global privacy policy
 
-## Information we collect
-- Server ID
-- Text channel ID
-- Message ID
-- User ID
-- User name & discriminators (e.g. user#0000)
-- Message content
-- Message content sent to us via our discord boy
-- Message information including (user ID, User name & discriminators, user snowflake)
+## Information That We Collect:
+- Server Id
+- Text Channel Id
+- Message Id
+- User Id
+- User Tag (example: @user#0000)
+- Messages sent within our server and to our Discord bot
 - User defined time-zone
 
-## Why we need information
-We collect the information and process it via our discord bot to provide services including shift notifications, staff leave of absence requests, staff application management, administrative action logging, & requests for our board of directors
+## Why We Need This Information:
+We collect / process this information via our discord bot to provide services including shift notifications, staff leave of absence requests, staff application management, administrative action logging, & requests for our board of directors.
 
-## What personal data do we collect
-*personal data will be defined as "identifiable information, is any information related to an identifiable person"
-- user defined time-zone
-
-## How we use your personal information
+## How We Use Your Information:
 We use the collected data in various ways including:
-- provide "shifts" in ROBLOX that will best fit our users time zone
-- Operate our discord & website
-- Maintain our discord bot & website
+- Provide "shifts" in Roblox that will best fit our users time zone
+- Operate and maintain our Discord, Discord Bot, and Website
 
 **WE DO NOT DISCLOSE ANY COLLECTED INFORMATION OUTSIDE OF EMERUS MEDICAL CENTER
 
-## Log files
-- we collect logs of all violations of the [Emerus community guidelines](https://github.com/TotoTheEgg/emerus_privacy_policy/blob/main/README.md#emerus-community-guidelines) & [Discord terms of Service](https://discord.com/terms) 
-- we collect logs of all human resources(internal affairs & external affairs) tickets opened includes:
+## Logged Information
+- We collect logs of all violations of the [Emerus community guidelines](https://github.com/TotoTheEgg/emerus_privacy_policy/blob/main/README.md#emerus-community-guidelines) & [Discord terms of Service](https://discord.com/terms) 
+- We collect logs of all human resources (internal affairs & external affairs) tickets opened includes:
   - messages sent
   - images sent
   - user snowflakes
 
 ## Data removal
-
 The following data MAY be removed:
  - User timezone
  - Cached user data(temporary data saved via the discord bot)
  - User join/leave logs
  - User messages with our discord bot
 
-The following data may NOT be removed:
-  - Moderation/administrative logs
-  - Human resources(internal affairs & external affairs) moderation history
-  - Human resources(internal affairs & external affairs) ticket transcripts
+The following data can NOT be removed:
+  - Moderation / administrative logs
+  - Human resources (internal affairs & external affairs) moderation history
+  - Human resources (internal affairs & external affairs) ticket transcripts
 
 To have your data removed please message our discord bot requesting data removal & data will be removed within 76 hours
 
 ## Third party pricacy policy
-Emerus as an independant being utilizes third party bots including [I.R.I.S. Utilities](https://iris.cool), [Dyno](https://dyno.gg/), [BloxLink](https://blox.link/), and reserves all rights to add more third party bot instances to our server, all third party instances reserve the rights to hold their own privacy policy without regard to Emerus' Privacy Policy
+Emerus as an independant being utilizes third party bots including [I.R.I.S. Utilities](https://iris.cool), [Dyno](https://dyno.gg/), [BloxLink](https://blox.link/), and reserves all rights to add more third party bot instances to our server, all third party instances reserve the rights to hold their own privacy policy without regard to Emerus' Privacy Policy.
 
 ## Legal acts that emerus follows
 - [CCPA Privacy Rights (Do not sell my personal information)](https://oag.ca.gov/privacy/ccpa/regs)
