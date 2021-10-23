@@ -26,7 +26,7 @@ We use the collected data in various ways including:
 **WE DO NOT DISCLOSE ANY COLLECTED INFORMATION OUTSIDE OF EMERUS MEDICAL CENTER
 
 ## Log files
-- we collect logs of all violations of the Emerus community guidelines & [Discord terms of Service](https://discord.com/terms) 
+- we collect logs of all violations of the [Emerus community guidelines](https://github.com/TotoTheEgg/emerus_privacy_policy/blob/main/README.md#emerus-community-guidelines) & [Discord terms of Service](https://discord.com/terms) 
 - we collect logs of all human resources(internal affairs & external affairs) tickets opened
   - includes:
     - messages sent
