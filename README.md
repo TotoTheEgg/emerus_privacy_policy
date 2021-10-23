@@ -40,7 +40,7 @@ The following data can NOT be removed:
 
 To have your data removed please message our discord bot requesting data removal & data will be removed within 76 hours
 
-## Third party pricacy policy
+## Third party privacy policy
 Emerus as an independant being utilizes third party bots including [I.R.I.S. Utilities](https://iris.cool), [Dyno](https://dyno.gg/), [BloxLink](https://blox.link/), and reserves all rights to add more third party bot instances to our server, all third party instances reserve the rights to hold their own privacy policy without regard to Emerus' Privacy Policy.
 
 ## Legal acts that emerus follows
@@ -77,7 +77,7 @@ Please use correct channels for their intended purpose. Do not talk in bot comma
 While you are allowed to post photos of you, you are not allowed to post info/photos of other members without their permission, if done so will resut in an instant ban and report to discord
 
 - Administrative chats)
-Any information obtained from an administrative channel(Board of directors related channels, administrative related channels, or any other channel that requires elevated permission to gain access to) that is shared will result in instant termination & ban from obtaining administrative rank with appeal from %75 board of directors vote
+Any information obtained from an administrative channel(Board of directors related channels, administrative related channels, or any other channel that requires elevated permission to gain access to) that is shared will result in instant termination & ban from obtaining administrative rank with appeal from 75% board of directors vote
 
 - Jokes)
 While joking is allowed, do not joke about suicide, self-harm, disability, race, or the LGBTQ+ community.
