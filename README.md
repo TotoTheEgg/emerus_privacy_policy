@@ -80,7 +80,7 @@ While you are allowed to post photos of you, you are not allowed to post info/ph
 - Administrative chats)
 Any information obtained from an administrative channel(Board of directors related channels, administrative related channels, or any other channel that requires elevated permission to gain access to) that is shared will result in instant termination & ban from obtaining administrative rank with appeal from 75% board of directors vote
 
-- Jokes)
+- Jo[k](https://www.youtube.com/watch?v=dQw4w9WgXcQ)es)
 While joking is allowed, do not joke about suicide, self-harm, disability, race, or the LGBTQ+ community.
 
 - Pings)
