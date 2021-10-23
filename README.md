@@ -19,6 +19,7 @@ We use the collected data in various ways including:
 
 **WE DO NOT DISCLOSE ANY COLLECTED INFORMATION OUTSIDE OF EMERUS MEDICAL CENTER
 
+
 ## Logged Information
 - We collect logs of all violations of the [Emerus community guidelines](https://github.com/TotoTheEgg/emerus_privacy_policy/blob/main/README.md#emerus-community-guidelines) & [Discord terms of Service](https://discord.com/terms) 
 - We collect logs of all human resources (internal affairs & external affairs) tickets opened includes:
@@ -26,7 +27,7 @@ We use the collected data in various ways including:
   - images sent
   - user snowflakes
 
-## Data removal
+## Data Removal
 The following data MAY be removed:
  - User timezone
  - Cached user data(temporary data saved via the discord bot)
@@ -40,15 +41,15 @@ The following data can NOT be removed:
 
 To have your data removed please message our discord bot requesting data removal & data will be removed within 76 hours
 
-## Third party privacy policy
+## Third Party Privacy Policy
 Emerus as an independant being utilizes third party bots including [I.R.I.S. Utilities](https://iris.cool), [Dyno](https://dyno.gg/), [BloxLink](https://blox.link/), and reserves all rights to add more third party bot instances to our server, all third party instances reserve the rights to hold their own privacy policy without regard to Emerus' Privacy Policy.
 
-## Legal acts that emerus follows
+## Legal Acts That Emerus Follows
 - [CCPA Privacy Rights (Do not sell my personal information)](https://oag.ca.gov/privacy/ccpa/regs)
 - [GDPR Data Protection Rights](https://gdpr.eu/)
 - [Children's internet protection act](https://www.fcc.gov/consumers/guides/childrens-internet-protection-act)
 
-### Emerus community guidelines
+### Emerus Community Guidelines
 - 13+)
 To abide by discord terms of service all members must be 13 or above.
 
