@@ -17,7 +17,7 @@ We use the collected data in various ways including:
 - Provide "shifts" in Roblox that will best fit our users time zone
 - Operate and maintain our Discord, Discord Bot, and Website
 
-**WE DO NOT DISCLOSE ANY COLLECTED INFORMATION OUTSIDE OF EMERUS MEDICAL CENTER
+**WE DO NOT DISCLOSE ANY COLLECTED INFORMATION TO ANY THIRD PARTY SOURCES
 
 
 ## Logged Information
